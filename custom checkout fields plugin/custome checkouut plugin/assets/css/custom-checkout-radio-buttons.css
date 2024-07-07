@@ -1,0 +1,16 @@
+
+/* Custom styles for radio buttons */
+.custom-radio-group .form-row-wide {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.custom-radio-group input[type="radio"] {
+    margin-right: 10px;
+}
+
+.custom-radio-group label {
+    margin: 0;
+}
+
